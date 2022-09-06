@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anxumaan5x
-- 👀 I’m interested in software engineering, full stack development 
-- 🌱 I’m currently learning data structures using Python
+- 👀 I’m interested in software engineering, full stack development
 - 💞️ I’m looking to collaborate on Flask stack
 - 📫 How to reach me at linkedin.com/anxumaan
 
